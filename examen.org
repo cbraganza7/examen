@@ -38,8 +38,8 @@
 4) Ninguna de las anteriores son correctas
 * Como se pone en JavaScript un comentario de una línea
 1) # Comentario
-2) // Comentario
-3) /* Comentario x
+2) // Comentario x
+3) /* Comentario 
 4) Ninguna de las anteriores
 * Como se genera en JavasScript un número aleatorio
 1) Con Math.rnd()
