@@ -13,9 +13,9 @@
 4) Microsoft
 * JavaScript es un lenguaje de programación
 1) Compilado
-2) Interpretado
+2) Interpretado x
 3) No estructurado
-4) Ninguna de las anteriores x
+4) Ninguna de las anteriores 
 * Qué es el DOM
 1) Un atributo
 2) Un videojuego
